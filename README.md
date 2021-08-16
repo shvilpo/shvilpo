@@ -1,4 +1,4 @@
-- 👋 Konstantin A. Shvilpo
+- 👋 Konstantin A. Shvilpo, Moscow, Russia
 - 👀 I’m interested in .NET Core WPF and REST API developing
 - 🌱 I’m currently learning .NET 6
 
